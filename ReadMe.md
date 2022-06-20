@@ -10,7 +10,6 @@ nutui-vue 提供了对 Taro 框架的支持，即用户可以通过使用 nutui-
 npm install @tarojs/cli
 ```
 
-
 1. 确保使用高版本的node
 
 Expected version "^12.22.0 || ^14.17.0 || >=16.0.0". Got "8.11.3"。
